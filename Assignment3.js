@@ -1,0 +1,17 @@
+var name="Akshada";
+console.log(typeof name);
+console.log("*******************************");
+var city="Pune";
+console.log(typeof p_name);
+console.log("*******************************");
+var pin=411056;
+console.log(typeof Pin);
+console.log("*******************************");
+var age=23;
+console.log(typeof age);
+console.log("*******************************");
+var married_status=false;
+console.log(typeof married_status);
+console.log("*******************************");
+var  my_properties=null; 
+console.log(typeof my_properties);
