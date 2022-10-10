@@ -30,6 +30,18 @@ var areaReactangle=function(length,width)
 areaReactangle(499,917);
 console.log("********************************");
 
+function swap_values(arg1,arg2){
+    console.log("***********Before swap*********");
+    console.log(arg1,arg2);
+    var temp=arg1;
+    arg1=arg2;
+    arg2=temp;
+    console.log("**************After Swap**********");
+    console.log(arg1,arg2);
+}
+swap_values("Virat","Anushka");
+swap_values(1000,2000);
+
 
 var stringUse= "Javascript is  most   popular    language"
 {

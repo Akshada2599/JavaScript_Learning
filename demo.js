@@ -9,3 +9,11 @@ console.error(" Opps failed to excuted");
 
 
 console.log(" 99999 ");
+
+
+function test(arg1,arg2)   //varible return funtction clear
+{
+    console.log(arg1,agr2);
+    return"Akshada";
+}
+var val = test 
